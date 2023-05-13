@@ -700,6 +700,7 @@ a:focus {
 
 .about .about-tab .tab-content .container {
     padding: 0;
+    text-align: justify;
 }
 
 @media (max-width: 991.98px) {
@@ -776,6 +777,7 @@ a:focus {
 
 .service .service-text p {
     margin: 0;
+    text-align: justify;
 }
 
 
@@ -1101,6 +1103,8 @@ a:focus {
     font-size: 18px;
     font-weight: 700;
     margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 .team .team-text p {
@@ -1189,6 +1193,7 @@ a:focus {
 
 .testimonial .testimonial-text p {
     margin: 0;
+    text-align: justify;
 }
 
 .testimonial .owl-dots {
@@ -1242,6 +1247,7 @@ a:focus {
 
 .volunteer .volunteer-text p {
     color: #ffffff;
+    text-align: justify;
     font-size: 18px;
 }
 
@@ -1378,7 +1384,7 @@ a:focus {
 
 .event .btn.btn-custom {
     margin-top: 20px;
-    padding: 8px 30px;
+    padding: 8px 8px;
 }
 
 @media (max-width: 575.98px) {
@@ -1470,7 +1476,7 @@ a:focus {
 .blog .blog-meta p {
     margin: 0;
     color: #777777;
-    padding: 0 30px;
+    padding: 0 20px;
     border-right: 1px solid rgba(0, 0, 0, .15);
 }
 
@@ -1600,6 +1606,10 @@ a:focus {
 .single .single-content img {
     margin-bottom: 20px;
     width: 100%;
+}
+
+.single .single-content p {
+    text-align: justify;
 }
 
 .single .single-tags {
@@ -1801,6 +1811,10 @@ a:focus {
     font-size: 14px;
     font-weight: 500;
     margin-bottom: 5px;
+}
+
+.single .comment-text p {
+    text-align: justify;
 }
 
 .single .comment-text .btn {
