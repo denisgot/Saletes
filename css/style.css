@@ -1306,7 +1306,7 @@ a:focus {
 .event {
     position: relative;
     width: 100%;
-    padding: 45px 0 15px 0;
+    padding: -1px 0 15px 0;
 }
 
 .event .event-item {
