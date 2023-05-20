@@ -1383,8 +1383,7 @@ a:focus {
 }
 
 .event .btn.btn-custom {
-    margin-top: 20px;
-    padding: 8px 8px;
+    margin-top: 5px;
 }
 
 @media (max-width: 575.98px) {
